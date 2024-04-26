@@ -1,0 +1,5 @@
+Rust é uma linguagem de programação multiparadigma compilada desenvolvida pela Mozilla.
+
+É projetada para ser "segura, concorrente e prática", mas diferente de outras linguagens seguras, Rust não usa coletor de lixo. Possui suporte nativo ao WebAssembly.
+
+A linguagem apareceu como um projeto pessoal de Graydon Hoare, empregado da Mozilla.
